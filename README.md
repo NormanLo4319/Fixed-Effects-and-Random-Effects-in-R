@@ -1,14 +1,7 @@
 # Fixed-Effects and Random-Effects in R
-This repository demonstrates the use of fixed effects and random effects to analyze the *panel dataset*.
+This repository demonstrates the use of two econometric techniques, fixed effects and random effects, to analyze **panel dataset** in R.
 
 **Penal Data**, also known as longitudinal or cross-sectional time-series data, is a dataset in which the behavior of entities are observed across time. These entities could be states, companies, individuals, countries, etc.
-
-
-
-
-
-
-
 
 ## References:
 - [DDS Online Training Section](http://dss.princeton.edu/training/)
@@ -21,3 +14,5 @@ This repository demonstrates the use of fixed effects and random effects to anal
 - [DSS -R](http://dss.princeton.edu/online_help/stats_packages/r)
 - [Panel Data Econometricsin R: theplmpackage](http://cran.r-project.org/web/packages/plm/vignettes/plm.pdf)
 - [Econometric Computing withHC and HAC CovarianceMatrixEstimators](http://cran.r-project.org/web/packages/sandwich/vignettes/sandwich.pdf)
+
+Copyright © 2021 Norman Lo
