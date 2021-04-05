@@ -1,7 +1,7 @@
 # Fixed-Effects and Random-Effects in R
 This repository demonstrates the use of two econometric techniques, fixed effects and random effects, to analyze **panel dataset** in R.
 
-**Penal Data**, also known as longitudinal or cross-sectional time-series data, is a dataset in which the behavior of entities are observed across time. These entities could be states, companies, individuals, countries, etc.
+**Panel Data**, also known as longitudinal or cross-sectional time-series data, is a dataset in which the behavior of entities are observed across time. These entities could be states, companies, individuals, countries, etc.
 
 ## References:
 - [DDS Online Training Section](http://dss.princeton.edu/training/)
